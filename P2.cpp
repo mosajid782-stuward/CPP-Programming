@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-//Dispaly the sq. root of given input by user.
+//Dispaly the sq. root of given input by user..
 int main () {
     int a,b;
     cout<<"enter a:";
