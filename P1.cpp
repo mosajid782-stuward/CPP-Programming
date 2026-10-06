@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+// Display the sum of two number given by user.
 
 int main () {
     int a,b;
