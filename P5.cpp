@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+// celcius o fahrenheight conversion..
 
 int main () {
     float C,F;
