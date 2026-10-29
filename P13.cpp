@@ -1,10 +1,10 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main () {
-    int p,c,m,e,h, per;
+    int p,c,m,e,h,per;
     cout<<"Enter marks of subject ";
     cin>>p\n>>c\n>>m\n>>e\n>>h\n;
-    per=(p+c+m+e+h)/500 *100;
+    per=(p+c+m+e+h)/5;
     if(per>=0 && per<40) {
         cout<<" Fail";
     }
