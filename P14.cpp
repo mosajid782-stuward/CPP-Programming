@@ -38,7 +38,7 @@ int main () {
             cout<<"A+";
         }
         else {
-            cout<<"Wrong %age";
+            cout<<"wrong marks";
         }
         break;
         default :
