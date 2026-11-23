@@ -1,0 +1,12 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	// your code goes here
+	int x,y;
+	for(x=1;x<=3;x++) {
+	    for(y=1;y<=3;y++) {
+	        cout<<x<<" "<<y<<endl;
+	    }
+	}
+	return 0;
